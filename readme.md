@@ -1,0 +1,1 @@
+Create a component that displays a list of items and allows the user to add new items to the list. The component should have a text input and a button. When the user enters an item name and clicks the button, the item should be added to the list.
